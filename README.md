@@ -16,7 +16,7 @@ Harris Corner Detection is a popular method for detecting corners within an imag
 
 ## Example
 
-![Image with Harris Corners](result.jpg)
+![Image with Harris Corners](result.png)
 
 ## Prerequisites
 
